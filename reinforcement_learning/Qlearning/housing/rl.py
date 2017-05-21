@@ -1,4 +1,5 @@
-# http://mnemstudio.org/path-finding-q-learning-tutorial.htm
+# Simple Q learning implementation for learning a path from a random room to outside the house
+# Based of : http://mnemstudio.org/path-finding-q-learning-tutorial.htm
 
 from random import randint
 import sys
